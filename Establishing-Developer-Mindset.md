@@ -1,2 +1,8 @@
 Establishing a Developer Mindset
 ============
+
+The first goal is to increase my general knowledge of web development for professional advancement. I have been working on a project at work using Ruby on Rails and have built a fully integrated web application. My goal will for this is to learn in the course meathods and techniques to make the application more efficient and presentable to the end user. I would also like to increase my knowledge on the subject to assist my wife in developing her Website for her business. And lastly my goal in taking becoming a developer is to enhance my career as a Systems integration engineer, by learning new skills to apply to various asspects of my career. 
+
+Letter to my Future Self
+==========
+I understand you are stuck on a complex problem and have been unable to resolve the issue. First thing to remember is continue pursuing the issue and never give up. Remember the 'Growth Mindset' from Martocchio’s study, take a break and relax for a minute, embrace the failures as a learning step. Take a few minutes to do something else and take your mind of the problem before returning to the problem. Once you've relaxed for a little bit, start working the issue again. Check on Stackoverflow.com and post a question to see if anyone else has information to help solve the problem. Search the web for other resources. If you are still haveing issues, try breaking down the problem into smaller sub problems and solve each little piece individual. Be excited about solving the little pieces to keep yourself motivated. Remember to focus on what you have accomplished and what you have learned in the failures. Lastly, the more work you put into it, the more rewarding it will be when you conquer the problem. 
