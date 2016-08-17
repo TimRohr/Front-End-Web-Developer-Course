@@ -1,0 +1,33 @@
+ul {
+  list-style-type: none;
+}
+
+#pic {
+  width: 300px;
+  padding-bottom: 10px;
+}
+
+.label{
+  font-weight: bold;
+}
+
+.itl{
+  font-style: italic;
+}
+
+.page{
+  width: 300px;
+  border: 1px solid black;
+  padding: 15px;
+  box-shadow: 7px 7px 5px #e6e6e6;
+}
+
+.info{
+  border: .5px solid black;
+  padding: 10px;
+  text-align: left;
+}
+
+.float{
+  position: relative;
+}
