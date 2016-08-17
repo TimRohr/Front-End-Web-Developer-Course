@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+* I have learned how to use Atom for editing html files. I have also used VIM in the past, but find that atom is a more user friendly application. I have also learned how to look up html syntax to implement into my code when I am not familiar with the syntax. 
+* I have done some HTML in the past so learning on the newer html is coming a little bit easier for me. 
+* Finding the right syntax can be a challenge due to differences in older and new HTML.  
+* I have used atom to catch typo's in my syntax while writting my code. I have also used online resources to find the correct syntax for displaying the element. 
