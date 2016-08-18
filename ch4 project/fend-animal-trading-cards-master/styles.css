@@ -22,12 +22,12 @@ ul {
   box-shadow: 7px 7px 5px #e6e6e6;
 }
 
+page.li {
+  padding-left: 0px;
+}
+
 .info{
   border: .5px solid black;
   padding: 10px;
   text-align: left;
-}
-
-.float{
-  position: relative;
 }
